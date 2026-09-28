@@ -13,5 +13,5 @@ def even_odd_no_checker():
     if number % 2 == 0:
         print(f"{number} is an even")
     else:
-        print(f"{number} ia an odd")
+        print(f"{number} is an odd")
                 
